@@ -45,5 +45,6 @@ public class Main {
 
 b1 = (byte) d3;
         System.out.println("b1= " + b1);
+
     }
 }
